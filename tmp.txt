@@ -1,0 +1,14 @@
+flatbuffers==2.0
+importlib-metadata==4.8.2
+numpy==1.19.4
+onnx==1.4.1
+onnxruntime==1.9.0
+opencv-contrib-python==4.5.3.56
+opencv-python==4.5.4.60
+pyaescrypt==6.0.0
+pyinstaller==4.7
+pyinstaller-hooks-contrib==2021.4
+pywin32-ctypes==0.2.0
+tornado==6.1
+typing-extensions==3.10.0.2
+zipp==3.6.0
